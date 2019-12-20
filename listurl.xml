@@ -25,23 +25,4 @@ http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36985
 #EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery Channel FHD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Full HD",Discovery Channel FHD
 http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/38404
 
-#EXTINF:-1 tvg-id="[XX] Adulto 37 (4k)" tvg-name="[XX] Adulto 42 [4K]" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] Adulto 42 [4K]
-http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/63078
 
-#EXTINF:-1 tvg-id="[XX] Adulto 39 (4k)	" tvg-name="[XX] Adulto 40 [4K]" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] Adulto 40 [4K]
-http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/63080
-
-#EXTINF:-1 tvg-id="[XX] Adulto 40 (4k)	" tvg-name="[XX] Adulto 39 [4K]" tvg-logo="[XX] Adulto 39 (4k)	" group-title="Canais | Adultos",[XX] Adulto 39 [4K]
-http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/63081
-
-#EXTINF:-1 tvg-id="[XX] Adulto 41 (4k)" tvg-name="[XX] Adulto 38 [4K]" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] Adulto 38 [4K]
-http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/63082
-
-#EXTINF:-1 tvg-id="[XX] Adulto 42 (4k)	" tvg-name="[XX] Adulto 37 [4k]" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] Adulto 37 [4k]
-http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/63083
-
-#EXTINF:-1 tvg-id="[XX] Adulto 43 (4k)" tvg-name="[XX] Adulto 36  [4K]" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] Adulto 36  [4K]
-http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/63084
-
-#EXTINF:-1 tvg-id="[XX] Adulto 45 (4k)" tvg-name="[XX] Adulto 35 [4K]" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] Adulto 35 [4K]
-http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/63086
