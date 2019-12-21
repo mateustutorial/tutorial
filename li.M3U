@@ -1,0 +1,64 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/41530
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery Channel FHD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Full HD",Discovery Channel FHD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/38404
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36985
+#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="Discovery Kids FHD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Full HD",Discovery Kids FHD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/41473
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36923
+#EXTINF:-1 tvg-id="Fox Channel" tvg-name="Fox Channel" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37101
+#EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36972
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix HD LEG" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Legendados ",MegaPix HD LEG
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/56886
+#EXTINF:-1 tvg-id="Boomerang FHD" tvg-name="Boomerang FHD" tvg-logo="http://i.imgur.com/dfRrag8.png" group-title="Canais | Full HD",Boomerang FHD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/38390
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network HD" tvg-logo="http://i.imgur.com/S5PsDDR.png" group-title="Canais | Infantil",Cartoon Network HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36927
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax HD" tvg-logo="http://i.imgur.com/nlGx2t1.png" group-title="Canais | Filmes e Series",Cinemax HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36926
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="Discovery Channel FHD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Full HD",Discovery Channel FHD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/38404
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36985
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37113
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36923
+#EXTINF:-1 tvg-id="Disney Channel FHD" tvg-name="Disney Channel FHD" tvg-logo="https://i.imgur.com/sQSxcnd.png" group-title="Canais | Full HD",Disney Channel FHD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/38402
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Disney Channel HD" tvg-logo="http://i.imgur.com/4KeieN7.png" group-title="Canais | Infantil",Disney Channel HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36921
+#EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36972
+#EXTINF:-1 tvg-id="Fox Premium 1 HD" tvg-name="Fox Premium 1  HD" tvg-logo="https://i.imgur.com/ANiatwo.png" group-title="Canais | Filmes e Series",Fox Premium 1  HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36974
+#EXTINF:-1 tvg-id="Globo Rio HD" tvg-name="Globo Rio HD" tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais | Abertos",Globo Rio HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36968
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37361
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM São José do Rio Preto HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV TEM São José do Rio Preto HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/40515
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36967
+#EXTINF:-1 tvg-id="HBO 2  HD" tvg-name="HBO 2 HD" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Filmes e Series",HBO 2 HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36966
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="MegaPix HD" tvg-logo="http://i.imgur.com/HvbMaEP.png" group-title="Canais | Filmes e Series",MegaPix HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36958
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV Live HD" tvg-logo="https://www.parabola.cz/img_logo/mtv-live-hd.gif" group-title="Canais | Variedades",MTV Live HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/40518
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36957
+#EXTINF:-1 tvg-id="Nat Geo Kids Alternativo HD" tvg-name="NatGeo Kids HD" tvg-logo="https://3.bp.blogspot.com/-GBXoaSTVN5I/WU0R1qrYDRI/AAAAAAAAGiA/RahHOGhaMnwSiy3ej42NJ1vMj_9oAUg0ACLcBGAs/s1600/NatGeokidsLA.png" group-title="Canais | Infantil",NatGeo Kids HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36909
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37051
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36945
+#EXTINF:-1 tvg-id="" tvg-name="O Diabo No Banco Dos Réus" tvg-logo="https://d26lpennugtm8s.cloudfront.net/stores/147/557/products/dvd-filme-o-diabo-no-banco-dos-reus1-e3dca28c8097bf3b0a14817168948466-1024-1024.png" group-title="Filmes | Comedia",O Diabo No Banco Dos Réus
+http://tv.factoryiptv.com:80/movie/NpjtAK6Ydv/duoiptv/54809.mp4
