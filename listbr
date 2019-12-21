@@ -1,0 +1,204 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP" tvg-logo="http://tvsimg.esy.es/img/globo.png" group-title="CANAIS GLOBO",GLOBO SP
+http://new.lista.red:80/ru825827/rp420915/33877
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP HD" tvg-logo="http://tvsimg.esy.es/img/globo.png" group-title="CANAIS GLOBO",GLOBO SP HD
+http://new.lista.red:80/ru825827/rp420915/33876
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP" tvg-logo="http://tvsimg.esy.es/img/record.jpg" group-title="REDE RECORD",RECORD SP
+http://new.lista.red:80/ru825827/rp420915/34041
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RECORD SP HD" tvg-logo="http://tvsimg.esy.es/img/record.jpg" group-title="REDE RECORD",RECORD SP HD
+http://new.lista.red:80/ru825827/rp420915/34037
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="http://tvsimg.esy.es/img/sbt.png" group-title="TV ABERTA",SBT
+http://new.lista.red:80/ru825827/rp420915/34030
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="http://tvsimg.esy.es/img/sbt.png" group-title="TV ABERTA",SBT HD
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="http://tvsimg.esy.es/img/aee.jpg" group-title="FILMES E SERIES",A&E SD
+http://new.lista.red:80/ru825827/rp420915/34201
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://tvsimg.esy.es/img/aee.jpg" group-title="FILMES E SERIES",A&E HD
+http://new.lista.red:80/ru825827/rp420915/34200
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265" tvg-logo="http://tvsimg.esy.es/img/aee.jpg" group-title="FILMES E SERIES",A&E FHD H265
+http://new.lista.red:80/ru825827/rp420915/51884
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="http://tvsimg.esy.es/img/aee.jpg" group-title="FILMES E SERIES",A&E FHD
+http://new.lista.red:80/ru825827/rp420915/34320
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="http://tvsimg.esy.es/img/amc.png" group-title="FILMES E SERIES",AMC SD
+http://new.lista.red:80/ru825827/rp420915/34199
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://tvsimg.esy.es/img/amc.png" group-title="FILMES E SERIES",AMC HD
+http://new.lista.red:80/ru825827/rp420915/34198
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC FHD [R2]" tvg-logo="http://tvsimg.esy.es/img/amc.png" group-title="FILMES E SERIES",AMC FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/51883
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="http://tvsimg.esy.es/img/amc.png" group-title="FILMES E SERIES",AMC FHD
+http://new.lista.red:80/ru825827/rp420915/34319
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT" tvg-logo="http://tvsimg.esy.es/img/tnt.png" group-title="FILMES E SERIES",TNT
+http://new.lista.red:80/ru825827/rp420915/33999
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="http://tvsimg.esy.es/img/tnt.png" group-title="FILMES E SERIES",TNT HD
+http://new.lista.red:80/ru825827/rp420915/33998
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD" tvg-logo="http://tvsimg.esy.es/img/tnt.png" group-title="FILMES E SERIES",TNT FHD
+http://new.lista.red:80/ru825827/rp420915/34258
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT FHD H265" tvg-logo="http://tvsimg.esy.es/img/tnt.png" group-title="FILMES E SERIES",TNT FHD H265
+http://new.lista.red:80/ru825827/rp420915/51805
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES" tvg-logo="http://tvsimg.esy.es/img/tnt.png" group-title="FILMES E SERIES",TNT SERIES
+http://new.lista.red:80/ru825827/rp420915/33997
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD" tvg-logo="http://tvsimg.esy.es/img/tnt.png" group-title="FILMES E SERIES",TNT SERIES HD
+http://new.lista.red:80/ru825827/rp420915/33996
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD" tvg-logo="http://tvsimg.esy.es/img/tnt.png" group-title="FILMES E SERIES",TNT SERIES FHD
+http://new.lista.red:80/ru825827/rp420915/34257
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES FHD H265" tvg-logo="http://tvsimg.esy.es/img/tnt.png" group-title="FILMES E SERIES",TNT SERIES FHD H265
+http://new.lista.red:80/ru825827/rp420915/51804
+#EXTINF:-1 tvg-id="Fox Channel" tvg-name="FOX" tvg-logo="http://tvsimg.esy.es/img/fox.jpg" group-title="FILMES E SERIES",FOX
+http://new.lista.red:80/ru825827/rp420915/34130
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://tvsimg.esy.es/img/fox.jpg" group-title="FILMES E SERIES",FOX HD
+http://new.lista.red:80/ru825827/rp420915/34129
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD" tvg-logo="http://tvsimg.esy.es/img/fox.jpg" group-title="FILMES E SERIES",FOX FHD
+http://new.lista.red:80/ru825827/rp420915/34241
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD H265" tvg-logo="http://tvsimg.esy.es/img/fox.jpg" group-title="FILMES E SERIES",FOX FHD H265
+http://new.lista.red:80/ru825827/rp420915/51857
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1" tvg-logo="http://tvsimg.esy.es/img/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1
+http://new.lista.red:80/ru825827/rp420915/34126
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="SONY HD" tvg-logo="http://tvsimg.esy.es/img/canalsony.png" group-title="FILMES E SERIES",SONY HD
+http://new.lista.red:80/ru825827/rp420915/34176
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="http://tvsimg.esy.es/img/megapix.jpg" group-title="FILMES E SERIES",MEGAPIX HD
+http://new.lista.red:80/ru825827/rp420915/34079
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="http://tvsimg.esy.es/img/megapix.jpg" group-title="FILMES E SERIES",MEGAPIX FHD
+http://new.lista.red:80/ru825827/rp420915/34278
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD H265" tvg-logo="http://tvsimg.esy.es/img/megapix.jpg" group-title="FILMES E SERIES",MEGAPIX FHD H265
+http://new.lista.red:80/ru825827/rp420915/51835
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="SPACE" tvg-logo="http://tvsimg.esy.es/img/spacehd.png" group-title="FILMES E SERIES",SPACE
+http://new.lista.red:80/ru825827/rp420915/34027
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE HD" tvg-logo="http://tvsimg.esy.es/img/spacehd.png" group-title="FILMES E SERIES",SPACE HD
+http://new.lista.red:80/ru825827/rp420915/34026
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="http://tvsimg.esy.es/img/spacehd.png" group-title="FILMES E SERIES",SPACE FHD
+http://new.lista.red:80/ru825827/rp420915/34264
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="SPACE FHD H265" tvg-logo="http://tvsimg.esy.es/img/spacehd.png" group-title="FILMES E SERIES",SPACE FHD H265
+http://new.lista.red:80/ru825827/rp420915/51818
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://tvsimg.esy.es/img/paramount.png" group-title="FILMES E SERIES",PARAMOUNT CHANNEL
+http://new.lista.red:80/ru825827/rp420915/34059
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://tvsimg.esy.es/img/paramount.png" group-title="FILMES E SERIES",PARAMOUNT CHANNEL HD
+http://new.lista.red:80/ru825827/rp420915/34058
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT CHANNEL FHD H265" tvg-logo="http://tvsimg.esy.es/img/paramount.png" group-title="FILMES E SERIES",PARAMOUNT CHANNEL FHD H265
+http://new.lista.red:80/ru825827/rp420915/51827
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://tvsimg.esy.es/img/univarsalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL
+http://new.lista.red:80/ru825827/rp420915/33983
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://tvsimg.esy.es/img/univarsalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL HD
+http://new.lista.red:80/ru825827/rp420915/33982
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD" tvg-logo="http://tvsimg.esy.es/img/univarsalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL FHD
+http://new.lista.red:80/ru825827/rp420915/34254
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="http://tvsimg.esy.es/img/univarsalchannel.png" group-title="FILMES E SERIES",UNIVERSAL CHANNEL FHD H265
+http://new.lista.red:80/ru825827/rp420915/51803
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://images.mi.tv/channels/hn_studio-universal_m.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
+http://new.lista.red:80/ru825827/rp420915/34019
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://images.mi.tv/channels/hn_studio-universal_m.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL HD
+http://new.lista.red:80/ru825827/rp420915/34018
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://images.mi.tv/channels/hn_studio-universal_m.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://new.lista.red:80/ru825827/rp420915/34263
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL [R2]" tvg-logo="http://images.mi.tv/channels/hn_studio-universal_m.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL [R2]
+http://new.lista.red:80/ru825827/rp420915/51813
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL" tvg-logo="http://tvsimg.esy.es/img/warner.png" group-title="FILMES E SERIES",WARNER CHANNEL
+http://new.lista.red:80/ru825827/rp420915/33976
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL HD" tvg-logo="http://tvsimg.esy.es/img/warner.png" group-title="FILMES E SERIES",WARNER CHANNEL HD
+http://new.lista.red:80/ru825827/rp420915/33975
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL [R2]" tvg-logo="http://tvsimg.esy.es/img/warner.png" group-title="FILMES E SERIES",WARNER CHANNEL [R2]
+http://new.lista.red:80/ru825827/rp420915/34252
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL FHD H265" tvg-logo="http://tvsimg.esy.es/img/warner.png" group-title="FILMES E SERIES",WARNER CHANNEL FHD H265
+http://new.lista.red:80/ru825827/rp420915/51802
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY" tvg-logo="http://tvsimg.esy.es/img/syfy.png" group-title="FILMES E SERIES",SYFY
+http://new.lista.red:80/ru825827/rp420915/34029
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="http://tvsimg.esy.es/img/syfy.png" group-title="FILMES E SERIES",SYFY HD
+http://new.lista.red:80/ru825827/rp420915/34028
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY [R2]" tvg-logo="http://tvsimg.esy.es/img/syfy.png" group-title="FILMES E SERIES",SYFY [R2]
+http://new.lista.red:80/ru825827/rp420915/34262
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="http://tvsimg.esy.es/img/echannel.jpg" group-title="FILMES E SERIES",E!
+http://new.lista.red:80/ru825827/rp420915/34144
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://tvsimg.esy.es/img/echannel.jpg" group-title="FILMES E SERIES",E! HD
+http://new.lista.red:80/ru825827/rp420915/34143
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! FHD" tvg-logo="http://tvsimg.esy.es/img/echannel.jpg" group-title="FILMES E SERIES",E! FHD
+http://new.lista.red:80/ru825827/rp420915/34300
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD [R2]" tvg-logo="http://tvsimg.esy.es/img/canalbrasil.jpg" group-title="FILMES E SERIES",CANAL BRASIL FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/34179
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="http://tvsimg.esy.es/img/canalbrasil.jpg" group-title="FILMES E SERIES",CANAL BRASIL HD
+http://new.lista.red:80/ru825827/rp420915/34178
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="http://tvsimg.esy.es/img/canalbrasil.jpg" group-title="FILMES E SERIES",CANAL BRASIL FHD
+http://new.lista.red:80/ru825827/rp420915/34215
+#EXTINF:-1 tvg-id="" tvg-name="A&E FHD [R2]" tvg-logo="" group-title="FILMES E SERIES",A&E FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79829
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD [R2]" tvg-logo="" group-title="FILMES E SERIES",A&E HD [R2]
+http://new.lista.red:80/ru825827/rp420915/79830
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [R2]" tvg-logo="" group-title="FILMES E SERIES",TNT FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79831
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD [R2]" tvg-logo="" group-title="FILMES E SERIES",TNT HD [R2]
+http://new.lista.red:80/ru825827/rp420915/79832
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES HD [R2]" tvg-logo="" group-title="FILMES E SERIES",TNT SERIES HD [R2]
+http://new.lista.red:80/ru825827/rp420915/79833
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT SERIES FHD [R2]" tvg-logo="" group-title="FILMES E SERIES",TNT SERIES FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79834
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD [R2]" tvg-logo="" group-title="FILMES E SERIES",FOX HD [R2]
+http://new.lista.red:80/ru825827/rp420915/79835
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX FHD [R2]" tvg-logo="" group-title="FILMES E SERIES",FOX FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79836
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 HD [R2]" tvg-logo="" group-title="FILMES E SERIES",FOX PREMIUM 1 HD [R2]
+http://new.lista.red:80/ru825827/rp420915/79837
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX PREMIUM 1 FHD [R2]" tvg-logo="" group-title="FILMES E SERIES",FOX PREMIUM 1 FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79838
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 HD [R2]" tvg-logo="" group-title="FILMES E SERIES",FOX PREMIUM 2 HD [R2]
+http://new.lista.red:80/ru825827/rp420915/79839
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX PREMIUM 2 FHD [R2]" tvg-logo="" group-title="FILMES E SERIES",FOX PREMIUM 2 FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79840
+#EXTINF:-1 tvg-id="FX" tvg-name="FX FHD [R2]" tvg-logo="http://tvsimg.esy.es/img/fx.png" group-title="FILMES E SERIES",FX FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79841
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD [R2]" tvg-logo="" group-title="FILMES E SERIES",FX HD [R2]
+http://new.lista.red:80/ru825827/rp420915/79842
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="SONY FHD [R2]" tvg-logo="" group-title="FILMES E SERIES",SONY FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79843
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX FHD [R2]" tvg-logo="http://tvsimg.esy.es/img/megapix.jpg" group-title="FILMES E SERIES",MEGAPIX FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79845
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD [R2]" tvg-logo="http://tvsimg.esy.es/img/megapix.jpg" group-title="FILMES E SERIES",MEGAPIX HD [R2]
+http://new.lista.red:80/ru825827/rp420915/79846
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="SONY HD [R2]" tvg-logo="" group-title="FILMES E SERIES",SONY HD [R2]
+http://new.lista.red:80/ru825827/rp420915/79844
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD [R2]" tvg-logo="http://tvsimg.esy.es/img/spacehd.png" group-title="FILMES E SERIES",SPACE HD [R2]
+http://new.lista.red:80/ru825827/rp420915/79847
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD [R2]" tvg-logo="http://tvsimg.esy.es/img/spacehd.png" group-title="FILMES E SERIES",SPACE FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79848
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA HD" tvg-logo="http://tvsimg.esy.es/img/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA HD
+http://new.lista.red:80/ru825827/rp420915/34007
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD" tvg-logo="http://tvsimg.esy.es/img/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA FHD
+http://new.lista.red:80/ru825827/rp420915/34220
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TELECINE PIPOCA FHD H265" tvg-logo="http://tvsimg.esy.es/img/tcpipoca.png" group-title="REDE TELECINE",TELECINE PIPOCA FHD H265
+http://new.lista.red:80/ru825827/rp420915/51808
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://tvsimg.esy.es/img/discoverykids.png" group-title="INFANTIL",DISCOVERY KIDS HD
+http://new.lista.red:80/ru825827/rp420915/34157
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://tvsimg.esy.es/img/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET SD
+http://new.lista.red:80/ru825827/rp420915/34197
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET  HD" tvg-logo="http://tvsimg.esy.es/img/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET  HD
+http://new.lista.red:80/ru825827/rp420915/51039
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://tvsimg.esy.es/img/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://new.lista.red:80/ru825827/rp420915/34196
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://tvsimg.esy.es/img/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
+http://new.lista.red:80/ru825827/rp420915/34318
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://tvsimg.esy.es/img/discovery.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL
+http://new.lista.red:80/ru825827/rp420915/34164
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="http://tvsimg.esy.es/img/discovery.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL HD
+http://new.lista.red:80/ru825827/rp420915/34163
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://tvsimg.esy.es/img/discovery.png" group-title="CANAIS DISCOVERY",DISCOVERY CHANNEL FHD
+http://new.lista.red:80/ru825827/rp420915/34245
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://tvsimg.esy.es/img/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER HD
+http://new.lista.red:80/ru825827/rp420915/34154
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER HD" tvg-logo="http://tvsimg.esy.es/img/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER HD
+http://new.lista.red:80/ru825827/rp420915/34153
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER FHD" tvg-logo="http://tvsimg.esy.es/img/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER FHD
+http://new.lista.red:80/ru825827/rp420915/34303
+#EXTINF:-1 tvg-id="Discovery Theater" tvg-name="DISCOVERY THEATER FHD H265" tvg-logo="http://tvsimg.esy.es/img/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATER FHD H265
+http://new.lista.red:80/ru825827/rp420915/51867
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="DISCOVERY WORLD" tvg-logo="http://tvsimg.esy.es/img/discoveryworld.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD
+http://new.lista.red:80/ru825827/rp420915/34150
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="DISCOVERY WORLD  HD" tvg-logo="http://tvsimg.esy.es/img/discoveryworld.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD  HD
+http://new.lista.red:80/ru825827/rp420915/34149
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="DISCOVERY WORLD FHD" tvg-logo="http://tvsimg.esy.es/img/discoveryworld.png" group-title="CANAIS DISCOVERY",DISCOVERY WORLD FHD
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="DISCOVERY THEATHER FHD [R2]" tvg-logo="http://tvsimg.esy.es/img/discoverytheater.png" group-title="CANAIS DISCOVERY",DISCOVERY THEATHER FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79946
+#EXTINF:-1 tvg-id="BR-Discovery Turbo" tvg-name="DISCOVERY TURBO FHD [R2]" tvg-logo="http://tvsimg.esy.es/img/DiscoveryTurbo.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO FHD [R2]
+http://new.lista.red:80/ru825827/rp420915/79947
+#EXTINF:-1 tvg-id="BR-Discovery Turbo" tvg-name="DISCOVERY TURBO HD [R2]" tvg-logo="http://tvsimg.esy.es/img/DiscoveryTurbo.png" group-title="CANAIS DISCOVERY",DISCOVERY TURBO HD [R2]
+http://new.lista.red:80/ru825827/rp420915/79957
+#EXTINF:-1 tvg-id="Cnt.br" tvg-name="CNT" tvg-logo="https://arthurvieira.files.wordpress.com/2010/11/cnt_logo_2010.jpg?w=304&h=256" group-title="NOTICIAS",CNT
+http://new.lista.red:80/ru825827/rp420915/66082
+
