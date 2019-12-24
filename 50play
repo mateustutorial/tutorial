@@ -49,3 +49,33 @@ http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37087
 http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37086
 #EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT Séries HD" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Séries HD
 http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36933
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE FUN [ALT]
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/51088
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PIPOCA HD [ALT]
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/51089
+#EXTINF:-1 tvg-id="" tvg-name="TNT [ALT]" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Alternativos",TNT [ALT]
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/51120
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD [ALT]" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES HD [ALT]
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/51121
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES [ALT]" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES [ALT]
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/51122
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 1" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 1
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/52276
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 10" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 10
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/52285
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 2" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 2
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/52277
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 3" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 3
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/52278
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 4" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 4
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/52279
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 5" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 5
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/52280
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 6" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 6
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/52281
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 7" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 7
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/52282
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 8" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 8
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/52283
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 9" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 9
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/52284
