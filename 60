@@ -1,0 +1,61 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/41087
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/313.png" group-title="Canais | Filmes e Series",AMC HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36928
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://i.imgur.com/J1oK0xW.png" group-title="Canais | Documentarios",Animal Planet HD
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Canais | Documentarios",Discovery Channel HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36985
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids" tvg-logo="http://i.imgur.com/32njYPj.png" group-title="Canais | Infantil",Discovery Kids
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37113#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://i.imgur.com/1hIZ4BE.png" group-title="Canais | Abertos",Globo SP HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37361
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV TEM São José do Rio Preto HD" tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="Globos | Regionais ",Globo TV TEM São José do Rio Preto HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/40515
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD" tvg-logo="http://i.imgur.com/yYmGNnQ.png" group-title="Canais | Variedades",Multishow HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36957
+#EXTINF:-1 tvg-id="RecordTV" tvg-name="RecordTV" tvg-logo="http://i.imgur.com/1Zb1lr8.png" group-title="Canais | Abertos",RecordTV
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37051
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37048
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/3HzpWUY.png" group-title="Canais | Abertos",SBT HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36945
+#EXTINF:-1 tvg-id="Band HD" tvg-name="Band SP HD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Abertos",Band SP HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/41530
+#EXTINF:-1 tvg-id="Band SP FHD" tvg-name="Band SP FHD" tvg-logo="http://i.imgur.com/6xouXln.png" group-title="Canais | Full HD",Band SP FHD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/41514
+#EXTINF:-1 tvg-id="RedeTV!" tvg-name="RedeTV!" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV!
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37012
+#EXTINF:-1 tvg-id="RedeTV! FHD" tvg-name="RedeTV! FHD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Full HD",RedeTV! FHD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/41518
+#EXTINF:-1 tvg-id="RedeTV! HD" tvg-name="RedeTV! HD" tvg-logo="https://i.imgur.com/HP5aXp6.png" group-title="Canais | Abertos",RedeTV! HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",MTV H265
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/62874
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | H.265 [01] ",MTV LIVE H265
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/62850
+#EXTINF:-1 tvg-id="Fox Channel" tvg-name="Fox Channel" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37101
+#EXTINF:-1 tvg-id="Fox Channel HD" tvg-name="Fox Channel HD" tvg-logo="http://i.imgur.com/Od0wkz3.png" group-title="Canais | Filmes e Series",Fox Channel HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36972
+#EXTINF:-1 tvg-id="GNT FHD" tvg-name="GNT FHD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Full HD",GNT FHD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/41484
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://i.imgur.com/a4pnqAH.png" group-title="Canais | Variedades",GNT HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36967
+#EXTINF:-1 tvg-id="Space" tvg-name="Space HD" tvg-logo="http://i.imgur.com/wP2GD1G.png" group-title="Canais | Filmes e Series",Space HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36944
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://i.imgur.com/KOIo5EH.png" group-title="Canais | Filmes e Series",HBO
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37087
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://i.imgur.com/okiePBA.png" group-title="Canais | Filmes e Series",HBO 2
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/37086
+#EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT Séries HD" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Filmes e Series",TNT Séries HD
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/36933
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE FUN [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE FUN [ALT]
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/51088
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PIPOCA HD [ALT]" tvg-logo="http://i.imgur.com/Lx3R36Y.png" group-title="Canais | Alternativos",TELECINE PIPOCA HD [ALT]
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/51089
+#EXTINF:-1 tvg-id="" tvg-name="TNT [ALT]" tvg-logo="http://i.imgur.com/VhQUWnY.png" group-title="Canais | Alternativos",TNT [ALT]
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/51120
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES HD [ALT]" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES HD [ALT]
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/51121
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES [ALT]" tvg-logo="http://i.imgur.com/HE2yMfG.png" group-title="Canais | Alternativos",TNT SERIES [ALT]
+http://tv.factoryiptv.com:80/NpjtAK6Ydv/duoiptv/51122
